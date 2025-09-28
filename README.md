@@ -44,7 +44,6 @@
   <img alt="Next.js" title="Next.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img alt="HTML5" title="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img alt="CSS3" title="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img alt="TailwindCSS" title="TailwindCSS" width="40px" src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo-light.svg" />
   
   <!-- Databases -->
   <img alt="MySQL" title="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
