@@ -64,5 +64,5 @@
 
 ### 📊 Stats
 <p >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekskorri&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekskorri&layout=compact&theme=tokyonight&hide_border=true" height="220" width="340"/>
 </p>
