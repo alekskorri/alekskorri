@@ -1,5 +1,6 @@
-<h1>👨‍💻 Aleks Korri</h1>
-**'Software Engineer | Full-Stack Developer'**
+# 👨‍💻 Aleks Korri
+
+**`Software Engineer | Full-Stack Developer`**
 
 <p align="center">
   <em>
