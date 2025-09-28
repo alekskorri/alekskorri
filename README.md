@@ -5,7 +5,7 @@
 <p>
   <em>
     Motivated Software Engineering student with hands-on experience in <b>full-stack development</b>, 
-    <b>backend systems</b>, and <b>database-driven applications</b>. Strong foundation in Python, Django, Java, and React, complemented by practical experience 
+    <b>backend systems</b>, and <b>database-driven applications</b>. Strong foundation in Python, Django, Java, and React, complemented by practical experience. 
     Passionate about problem-solving, teamwork, and building efficient digital solutions.  
   </em>
 </p>
@@ -24,6 +24,8 @@
     <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/alekskorri?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
 </p>
+
+*Primary: Python • Java • JavaScript*
 
 ---
 
@@ -44,6 +46,7 @@
   <img alt="Next.js" title="Next.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img alt="HTML5" title="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img alt="CSS3" title="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="Tailwind" title="TailwindCSS" width="36" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
   
   <!-- Databases -->
   <img alt="MySQL" title="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
