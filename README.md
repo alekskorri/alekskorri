@@ -64,14 +64,9 @@
 
 ### 📊 Stats
   ![Visitor Count](https://komarev.com/ghpvc/?username=alekskorri&color=blueviolet&style=flat)
-  
-<p >
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=alekskorri&theme=tokyonight&hide_border=true" />
-</p>
 
 <p >
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alekskorri&theme=tokyo-night" />
-
 </p>
 
 
