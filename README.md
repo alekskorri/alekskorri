@@ -66,3 +66,16 @@
 <p >
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alekskorri&theme=tokyonight&hide_border=true" />
 </p>
+<p >
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alekskorri&theme=tokyo-night" />
+
+</p>
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=alekskorri&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</p>
+<p>
+  ![Visitor Count](https://komarev.com/ghpvc/?username=alekskorri&color=blueviolet&style=flat)
+
+</p>
+
